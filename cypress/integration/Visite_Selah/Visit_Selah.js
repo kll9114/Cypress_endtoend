@@ -3,6 +3,7 @@ given('I get into Selah Home page', () => {
   cy.wait(5000)
   cy.log("Navigate to Selah-dz.com")
 
+  
 
 });
 
